@@ -21,7 +21,7 @@ Open Terminal and execute these commands...
 3. gem install earlgrey
 4. open podfile in your project
 5. Add this line pod 'EarlGrey' in your pod file under UI Test target. It looks like this :
-target 'EarlGreyDemoUITests' do
+target 'EarlGreyDemoTests' do
     inherit! :search_paths
     pod 'EarlGrey'
   end

@@ -13,7 +13,7 @@ EarlGrey framework is easy to integrate in the app. You just have to use cocoapo
 
 How to install EarlGrey Framework???
 
-Using CocoaPods...
+# Using CocoaPods
 Please follow these commands to install EarlGrey framework in your project : 
 Open Terminal and execute these commands...
 1. pod init
@@ -23,7 +23,6 @@ Open Terminal and execute these commands...
 5. Add this line pod 'EarlGrey' in your pod file under UI Test target. It looks like this :
 target 'EarlGreyDemoUITests' do
     inherit! :search_paths
-    # Pods for testing
     pod 'EarlGrey'
   end
 5. go to terminal

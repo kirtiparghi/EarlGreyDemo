@@ -11,9 +11,9 @@ User-Like Interaction: Swipes and taps are performed using app-level touch event
 
 EarlGrey framework is easy to integrate in the app. You just have to use cocoapod to fetch the latest version of the framework and that's it. 
 
-How to install EarlGrey Framework???
+# How to install EarlGrey Framework?
 
-# Using CocoaPods
+Using CocoaPods
 Please follow these commands to install EarlGrey framework in your project : 
 Open Terminal and execute these commands...
 1. pod init
